@@ -1,5 +1,7 @@
 # ReDrive
 
+![stack: HTML](https://img.shields.io/badge/stack-HTML-E34F26) ![stack: JavaScript](https://img.shields.io/badge/stack-JavaScript-F7DF1E) ![stack: CSS](https://img.shields.io/badge/stack-CSS-1572B6)
+
 A reimagined BMW webpage clone demonstrating proficiency in core web technologies including HTML, CSS, JavaScript, and JSON. Optimized for desktop viewing.
 
 ## Overview
